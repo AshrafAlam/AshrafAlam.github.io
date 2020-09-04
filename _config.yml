@@ -1,8 +1,10 @@
 title: Ashraf Alam
 theme: minima
 header_pages:
+  - profile/awards.md
+  - profile/talks.md
   - profile/index.md
-  - blog/index.md
+  - profile/connect.md
 
 plugins:
   - jekyll-feed
