@@ -1,4 +1,0 @@
----
-title: "Profile"
----
-Hello world
