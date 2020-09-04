@@ -2,10 +2,10 @@
 title: "Profile"
 ---
 ## Professional Profile
-##  Experience
-##  Projects
-##  Associations
-##  Featured
+###  Experience
+###  Projects
+###  Associations
+###  Featured
 
 ## Academic Profile
 ### Education
