@@ -2,29 +2,12 @@
 layout: post
 ---
 
-DotConnect is a alliance of various technical communities to provide updates of events, contents.
+Ashraf Alam is specialized in designing and building high-performance web applications in cloud computing environment. He is currently serving as Solutions Architect at Schoders, an asset management company operating worldwide. Ashraf is driving Digital Client Services platform strategy and roadmap to create innovative digital services for its customers.
 
-Technical user groups are formed to focus and share specific technology interests. However it is also benefitial to have a unified view of these initiatives. 
+Prior Schroders, Ashraf was a part of the cloud platform team at Autodesk for building high performance secured services for its several millions of customers and users.
 
-DotConnect connects and unites all interested technical people into a single starting point with acitivities below, but not limited to:
-* Organizes global conferences/wabnairs
-* Promote user group events organised by individual member group
-* Share interesting technical events happening in interest
-* Publish selected blog posts/articles
-* Recommend useful open source projects
+Through his professional experience, Ashraf's proven ability in technology leadership role and in-depth knowledge in technology led him gaining reputation with many success stories. Few of these include writing Kernel for a cloud-based SaaS platform, leading engineering effort to build enterprise applications for large organizations, such as Target, Motorola etc.
 
-## First Global Webinar on Edge Computing
-
-DotConnect is excited to host first Global Dev Connection Webnair on Edge Computing. Event date and topics will be published later. But if you can't wait, you can check [here](events/global-dev-con-egde-computing) to learn more details.
-
-## Becoming a Member User Group
-
-Current member groups are available [here](/member-groups).
-
-User groups can apply to become member ogranization. 
-
-If you're confident that you're group is eligible and want to connect with other user groups, add your group [here](https://github.com/DotConnectOrg/DotConnectOrg.github.io/blob/master/member-groups/index.md) and create a pull request.
-
-In the pull request include details about your group and why you think your user group is eligible.
+Ashraf has been involved as speaker, organizer, writer and judge in different technical online and offline events and inspired technical people to create a better world. His activities include his engagement with Microsoft Imagine Cup, IEEE Computer Society & Microsoft Conferences, ACM Programming Contests etc. 
 
 
