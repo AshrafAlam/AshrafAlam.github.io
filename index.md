@@ -1,12 +1,30 @@
 ---
 title: Ashraf Alam
 ---
-Ashraf Alam is specialized in designing and building high-performance web applications in cloud computing environment. He is currently serving as Solutions Architect at Schoders, an asset management company operating worldwide. Ashraf is driving Digital Client Services platform strategy and roadmap to create innovative digital services for its customers.
 
-Prior Schroders, Ashraf was a part of the cloud platform team at Autodesk for building high performance secured services for its several millions of customers and users.
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+	<link rel="icon" href="favicon.ico" type="image/png" />
 
-Through his professional experience, Ashraf's proven ability in technology leadership role and in-depth knowledge in technology led him gaining reputation with many success stories. Few of these include writing Kernel for a cloud-based SaaS platform, leading engineering effort to build enterprise applications for large organizations, such as Target, Motorola etc.
-
-Ashraf has been involved as speaker, organizer, writer and judge in different technical online and offline events and inspired technical people to create a better world. His activities include his engagement with Microsoft Imagine Cup, IEEE Computer Society & Microsoft Conferences, ACM Programming Contests etc. 
-
-
+	<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
+	<link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/themes/indigo-white.css">
+  
+<div class="intro">Hello, I'm Ashraf!</div>
+		<div class="tagline">All-Star Dev | Code Fanatic | Linux Hacker | Bleh</div>
+		<!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
+		<div class="icons-social">
+			<a target="_blank" href="https://github.com"><i class="fab fa-github"></i></a>
+			<a target="_blank" href="https://twitter.com"><i class="fab fa-twitter"></i></a>
+			<a target="_blank" href="https://dev.to"><i class="fab fa-dev"></i></a>
+			<a target="_blank" href="https://stackoverflow.com"><i class="fab fa-stack-overflow"></i></a>
+			<a target="_blank" href="https://www.linkedin.com"><i class="fab fa-linkedin"></i></a>
+			<a target="_blank" href="https://medium.com"><i class="fab fa-medium"></i></a>
+			<a target="_blank" href="https://www.freecodecamp.org"><i class="fab fa-free-code-camp"></i></a>
+			<a target="_blank" href="https://www.behance.net"><i class="fab fa-behance"></i></a>
+			<a target="_blank" href="https://codepen.io"><i class="fab fa-codepen"></i></a>
+</div>
