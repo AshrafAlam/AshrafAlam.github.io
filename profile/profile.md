@@ -1,13 +1,13 @@
 ---
 title: "Profile"
 ---
-# Professional Profile
-## Experience
-## Projects
-## Associations
-## Featured
+## Professional Profile
+##  Experience
+##  Projects
+##  Associations
+##  Featured
 
-# Academic Profile
-## Education
-## Research Publications
+## Academic Profile
+### Education
+### Research Publications
 
