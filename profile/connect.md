@@ -1,7 +1,6 @@
 ---
 title: "Connect"
 ---
-# Social Connect
 - Linkedin
 - Github
 - Stackoverflow
