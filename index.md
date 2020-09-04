@@ -14,7 +14,8 @@ title: Ashraf Alam
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/themes/indigo-white.css">
   
-<div class="intro">Hello, I'm Ashraf!</div>
+	<div class="intro">Hello, I'm Ashraf!</div>
+	
 		<div class="tagline">All-Star Dev | Code Fanatic | Linux Hacker | Bleh</div>
 		<!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
 		<div class="icons-social">
@@ -27,4 +28,4 @@ title: Ashraf Alam
 			<a target="_blank" href="https://www.freecodecamp.org"><i class="fab fa-free-code-camp"></i></a>
 			<a target="_blank" href="https://www.behance.net"><i class="fab fa-behance"></i></a>
 			<a target="_blank" href="https://codepen.io"><i class="fab fa-codepen"></i></a>
-</div>
+		</div>
