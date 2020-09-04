@@ -1,5 +1,5 @@
 ---
-layout: post
+title: Ashraf Alam
 ---
 Ashraf Alam is specialized in designing and building high-performance web applications in cloud computing environment. He is currently serving as Solutions Architect at Schoders, an asset management company operating worldwide. Ashraf is driving Digital Client Services platform strategy and roadmap to create innovative digital services for its customers.
 
