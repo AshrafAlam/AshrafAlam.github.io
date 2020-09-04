@@ -3,7 +3,7 @@ theme: minima
 header_pages:
   - profile/awards.md
   - profile/talks.md
-  - profile/index.md
+  - profile/profile.md
 
 plugins:
   - jekyll-feed
