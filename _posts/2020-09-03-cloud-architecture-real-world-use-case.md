@@ -49,13 +49,3 @@ Few fundamental or basic considerations, such as programming/scripting languages
 | -           | Graph NoSQL Store                    | Social network graph                         | [Azure CosmosDB: Gremlin API](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
 | -           | RDBMS 			                     | Financial data - Assets, liabilities, income | [Azure Sql Database](https://azure.microsoft.com/en-us/services/sql-database/)                   
 
-
-## Open Source Project on Awesome Cloud Architecture :star:
-
-EISK is an open source project that is intended providing developer resources to build scalable applications on top of awesome cloud architecture. 
-
-Already a [web api](https://github.com/EISK/eisk.webapi) project has been released to illustrate implementation best practices and more to come.
-
-Stay in touch for updates by bookmarking the project in [github](https://github.com/EISK/eisk).
-
-Enjoy!
