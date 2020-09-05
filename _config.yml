@@ -1,14 +1,10 @@
 title: Ashraf Alam
 
+show_excerpts: true
+
 minima:
   date_format: "%b %-d, %Y"
-
-  # generate social links in footer
-  social_links:
-    github: AshrafAlam
-    linkedin: ashrafalam
-    devto: ashrafalam
-    twitter: ashrafulalam
+  github: AshrafAlam
 
 header_pages:
   - profile/awards.md
@@ -16,7 +12,7 @@ header_pages:
   - profile/profile.md
   - profile/connect.md
 
-theme: minima
+theme: minima 
 
 plugins:
   - jekyll-feed
