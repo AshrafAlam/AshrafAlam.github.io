@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Cloud Architecture: Real-World Use Cases"
 permalink: blog/cloud-architecture-real-world-use-cases
 description: Here we’ve tried to summarize a list of top technologies that can be used to build scalable systems efficiently with respect to real-world use case scenarios. 
