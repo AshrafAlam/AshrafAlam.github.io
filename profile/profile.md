@@ -4,7 +4,7 @@ title: "Profile"
 
 Ashraf is internationally recognized software architect specialized in designing and building high-performance web applications in cloud computing environment. During his illustrious career, he worked for leading tech companies such as Autodesk, Desme Bangladesh, Gumbuya, and a world-leading asset management company, Schroders. 
 
-Ashraf contributions to the field of Software Design & Engineering have been acclaimed by his peers in the international software engineering community. During his over 15-years-long career, he has managed and developed several software projects, which are being used by users from different countries, such as USA, Canada, Australia, and Bangladesh.
+During his over 15-years-long career, he has managed and developed several software projects, which are being used by users from different countries, such as USA, Canada, Australia, and Bangladesh.
 
 A graduate of Dhaka's American International University-Bangladesh, he successfully developed and led complex projects of critical importance to these entities, during the course of which he made outstanding engineering accomplishments.
 
