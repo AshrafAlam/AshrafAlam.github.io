@@ -6,7 +6,10 @@ show_excerpts: true
 
 minima:
   date_format: "%b %-d, %Y"
-  github: AshrafAlam
+  twitter_username: your_twitter_username
+  github_username:  your_github_username
+  linkedin_username: your_linkedin_username
+  rss: rss
 
 header_pages:
   - profile/awards.md
