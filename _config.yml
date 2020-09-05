@@ -9,6 +9,9 @@ rss: rss
 
 show_excerpts: true
 
+disqus:
+  shortname: https-ashrafalam-github-io
+
 minima:
   date_format: "%b %-d, %Y"
 
