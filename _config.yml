@@ -13,9 +13,9 @@ minima:
   date_format: "%b %-d, %Y"
 
 header_pages:
+  - profile/profile.md
   - profile/awards.md
   - profile/talks.md
-  - profile/profile.md
   - profile/connect.md
 
 theme: minima 
