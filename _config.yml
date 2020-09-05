@@ -1,10 +1,5 @@
 title: Ashraf Alam
 
-author:
-  name: Ashraf Alam
-  email: joycsc@gmail.com
-description: Professional portfolio of Ashraf Alam
-
 minima:
   date_format: "%b %-d, %Y"
 
@@ -15,14 +10,14 @@ minima:
     devto: ashrafalam
     twitter: ashrafulalam
 
-theme: minima
-
 header_pages:
   - profile/awards.md
   - profile/talks.md
   - profile/profile.md
   - profile/connect.md
-  
+
+theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
