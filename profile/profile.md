@@ -11,3 +11,5 @@ A graduate of Dhaka's American International University-Bangladesh, he successfu
 A list of his numerous achievements includes the following: writing Kernel for a cloud-based Saas platform, leading engineering effort to build enterprise applications for large organizations, such as Target and Motorola, development of Autodesk Identity Platform, and on-boarding new technologies for Schroders' Digital Client Services. 
 
 He also created the [EISK](http://github.com/eisk), an innovative open-source project intended to be a guideline for building enterprise level pro jects , and many more. Moreover, he authored scientific article published by [IEEE Computer Society](https://ieeexplore.ieee.org/document/1286688?arnumber=1286688), the world's largest technical professional organization.
+
+[Ashraf's Linkedin Profile](https://www.linkedin.com/in/ashrafalam/).
